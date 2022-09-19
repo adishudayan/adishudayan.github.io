@@ -683,7 +683,8 @@ a {
   transition: color 0.6s;
 }
 .cid-thifK5K19i {
-  background-image: url("../../../assets/images/mountains-gddd8403d7-1920.jpg");
+   background-image: url("../../../assets/images/Sketch-1038.gif"); 
+
 }
 .cid-thifK5K19i .mbr-fallback-image.disabled {
   display: none;
@@ -696,6 +697,7 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
+  opacity: 5px;
 }
 .cid-thifK5K19i .social-row .soc-item {
   display: inline-block;
@@ -930,7 +932,7 @@ a {
 }
 .cid-thifK7Edz9 .dropdown-menu,
 .cid-thifK7Edz9 .navbar.opened {
-  background: #ffffff !important;
+  background: #000000 !important;
 }
 .cid-thifK7Edz9 .nav-item:focus,
 .cid-thifK7Edz9 .nav-link:focus {
@@ -1140,7 +1142,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #ffffff;
 }
 .cid-thifK7Edz9 button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1370,7 +1372,7 @@ a {
 }
 .cid-thi8LZQwlG .dropdown-menu,
 .cid-thi8LZQwlG .navbar.opened {
-  background: #ffffff !important;
+  background: #000000 !important;
 }
 .cid-thi8LZQwlG .nav-item:focus,
 .cid-thi8LZQwlG .nav-link:focus {
@@ -1908,7 +1910,7 @@ a {
 }
 .cid-thj0Wtb0aP .dropdown-menu,
 .cid-thj0Wtb0aP .navbar.opened {
-  background: #ffffff !important;
+  background: #000000 !important;
 }
 .cid-thj0Wtb0aP .nav-item:focus,
 .cid-thj0Wtb0aP .nav-link:focus {
